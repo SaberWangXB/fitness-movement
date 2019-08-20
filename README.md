@@ -3,3 +3,5 @@
 squat
 deadlift
 bench press
+row
+chinning
