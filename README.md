@@ -1,5 +1,5 @@
 # fitness-movement
-fitness movement sort
+## fitness movement sort
 squat
 deadlift
 bench press
