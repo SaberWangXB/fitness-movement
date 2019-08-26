@@ -4,4 +4,5 @@ squat
 deadlift
 bench press
 row
+Bow down and row
 chinning
